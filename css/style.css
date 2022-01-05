@@ -268,8 +268,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .welcome__body {
   display: block;
-  background: url("../img/mesh.jpeg") center/cover;
-  background-repeat: no-repeat;
+  background: url("../img/mesh.jpeg") center/cover no-repeat;
   background-attachment: fixed;
   width: 100%;
   height: 800px;
